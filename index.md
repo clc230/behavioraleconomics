@@ -1,12 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome Open Behavioral Economics Masters!
 
-You can use the [editor on GitHub](https://github.com/clc230/behavioraleconomics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The inspiration for this project comes from Open Data Science Masters http://datasciencemasters.org/ 
+I have always been fascinated by behavioral economics, and I studied economics in undergraduate but wanted more. My goal is to create an open, mostly free, and accessible resource for everyone else to start and learn about behavioral economics!
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Top concepts: 
+
+## Online resources: 
+[http://www.behavioraleconomics.com/BEGuide2017.pdf] Behavioral Economics Guide 2017
+
+## Books:
+
+Nudge
+Thinking Fast and Slow
+Hacking Human Behavior
+
+
+
+## Companies/Organizations (Consulting):
+Ideas42
+BEWorks
+
+Selection of startups/companies that have incorporated behavioral economics:
+Lemonade?
+HelloWallet
+Opower (now bought)
+
+Related fields:
+
+	Behavioral economics for finance:
+	Behavioral economics for health:
+	
+Behavioral Economics in politics:
+
+
 
 ```markdown
 Syntax highlighted code block
