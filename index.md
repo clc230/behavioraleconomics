@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## Top concepts: 
 
 ## Online resources: 
-[http://www.behavioraleconomics.com/BEGuide2017.pdf] Behavioral Economics Guide 2017
+[http://www.behavioraleconomics.com/BEGuide2017.pdf](http://www.behavioraleconomics.com/BEGuide2017.pdf) 
 
 ## Books:
 
