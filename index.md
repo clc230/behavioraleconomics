@@ -3,6 +3,8 @@
 The inspiration for this project comes from Open Data Science Masters http://datasciencemasters.org/ 
 I have always been fascinated by behavioral economics, and I studied economics in undergraduate but wanted more. My goal is to create an open, mostly free, and accessible resource for everyone else to start and learn about behavioral economics!
 
+At the core of behavior economics is an impulse and motivation to help others make better decisions. Whether you're a marketer, product manager, data analyst, or CEO, this is an important aspect of the job and you could benefit from it. So let's get started!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
