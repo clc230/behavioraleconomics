@@ -12,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## Top concepts: 
 
 ## Online resources: 
-[2017 Guide](http://www.behavioraleconomics.com/BEGuide2017.pdf) 
-[2016 Guide](https://www.behavioraleconomics.com/be-guide-2016-download/) 
-[2015 Guide](https://www.behavioraleconomics.com/be-guide-2015-download/) 
+[2017 Guide](http://www.behavioraleconomics.com/BEGuide2017.pdf) </br>
+[2016 Guide](https://www.behavioraleconomics.com/be-guide-2016-download/) </br>
+[2015 Guide](https://www.behavioraleconomics.com/be-guide-2015-download/) </br>
 [2014 Guide](https://www.behavioraleconomics.com/be-guide-2014-download/) 
 
 ## Books:
@@ -23,7 +23,13 @@ Nudge </br>
 Thinking Fast and Slow </br>
 Hacking Human Behavior </br>
 
+## Product (Examples of how behavioral economics is applied to products)
 
+Topics that are interesting to learn to understand products 
+
+## Marketing (Examples of how behavioral economics is applied to marketing)
+
+Topics that are interesting to learn to understand marketing
 
 ## Companies/Organizations (Consulting):
 Ideas42 </br>
